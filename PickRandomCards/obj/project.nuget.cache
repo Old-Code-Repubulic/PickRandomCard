@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JG9mVB/5gmMTmIQ88X9Aszi32s8PrrYPDL8/syPuNa0d8RBk0KrZM8/OaXuqV9hf2TG+o34hGk9kgiKsmmOfNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josep\\source\\repos\\PickRandomCards\\PickRandomCards\\PickRandomCards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josep\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
