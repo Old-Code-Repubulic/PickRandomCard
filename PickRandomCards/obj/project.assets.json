@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josep\\source\\repos\\PickRandomCards\\PickRandomCards\\PickRandomCards.csproj",
+      "projectUniqueName": "C:\\Users\\josep\\Documents\\Code\\PickRandomCards\\PickRandomCards\\PickRandomCards.csproj",
       "projectName": "PickRandomCards",
-      "projectPath": "C:\\Users\\josep\\source\\repos\\PickRandomCards\\PickRandomCards\\PickRandomCards.csproj",
+      "projectPath": "C:\\Users\\josep\\Documents\\Code\\PickRandomCards\\PickRandomCards\\PickRandomCards.csproj",
       "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josep\\source\\repos\\PickRandomCards\\PickRandomCards\\obj\\",
+      "outputPath": "C:\\Users\\josep\\Documents\\Code\\PickRandomCards\\PickRandomCards\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
