@@ -34,7 +34,12 @@ namespace PickRandomCards
 
         private static string RandomValue()
         {
-            throw new NotImplementedException();
+            int value = random.Next(1, 14);
+            if (value == 1) return "Ace";
+            if (value == 11) return "Jack";
+            if (value == 12) return "Queen";
+            if (value == 13) return "King";
+            return value.ToString();
         }
     }
 }
